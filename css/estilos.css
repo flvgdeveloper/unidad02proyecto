@@ -1,0 +1,48 @@
+.body_personal {
+    background-color: black;
+}
+
+.navbar_personal {
+    /*background-color: rgb(158, 168, 187);*/
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;   
+}
+
+.navbar_item_personal {
+    color: whitesmoke;
+}
+
+.slide-text1 {
+    color: white;
+    font-size: xx-large;
+    background-color: darkgray;
+
+}
+.slide-text2 {
+    color: white;
+    font-size: larger;
+    background-color: darkgray;
+
+
+}
+
+.textos1 {
+    text-align: center;
+    color: darkslategrey;
+    font-size: 3rem;
+}
+
+.textos2 {
+    text-align: center;
+    color: darkslategrey;
+    font-size: 1.5rem;
+}
+
+.tarjeta {
+    background-color: rgb(110, 175, 126);
+}
+
+.card-imagenes {
+    height: 90px;
+}
