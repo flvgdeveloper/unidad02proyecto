@@ -2,7 +2,7 @@
 
 ## unidad 2
 
-** Proyecto final para evaluacion del curso **
+**Proyecto final para evaluacion del curso**
 
 * HTML
 * CSS
